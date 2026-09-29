@@ -1,0 +1,9 @@
+{
+  "Name": "QuickDraw100",
+  "DisplayName": "快速画符100% (Mobile Attempt)",
+  "Desc": "Mencoba set kualitas Quick Draw talisman ke 100% saat game load.\n\nPERINGATAN: Mod ini experiment. Mungkin tidak bekerja di semua versi mobile karena kualitas quick draw hardcoded. Gunakan dengan risiko sendiri. Backup save dulu!",
+  "Author": "Grok (user request)",
+  "Version": "1.0",
+  "GameVersion": 1.0,
+  "Dependencies": null
+}
